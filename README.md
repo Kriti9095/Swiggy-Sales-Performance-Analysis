@@ -28,15 +28,15 @@ These metrics provide a quick overview of Swiggy’s operational scale, customer
 
 ## Dashboard Insights  
 
-### 📌 Sales Trends  
+###  Sales Trends  
 - Monthly sales trend line chart to identify seasonal growth  
 - Daily sales bar chart highlighting peak order days  
 
-### 📌 Regional Performance  
+###  Regional Performance  
 - State-wise sales distribution using a map chart  
 - Top 5 revenue-generating cities including Bengaluru, Lucknow, Hyderabad, Mumbai, and New Delhi  
 
-### 📌 Quarterly Overview  
+###  Quarterly Overview  
 - Quarter-wise breakdown of Sales, Orders, and Ratings (Q1–Q3)  
 - Clear comparison of performance across different time periods  
 
