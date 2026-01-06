@@ -59,7 +59,7 @@ These metrics provide a quick overview of Swiggy’s operational scale, customer
 ---
 
 ## Dashboard Features  
-- **Month-wise Slicer:** Filter data from January to September  
+- **Month-wise Slicer:** Interactive time based filtering for trend analysis   
 - **Dynamic KPIs:** Scorecards update automatically based on selected filters  
 - **Geospatial View:** Map visual highlights high-revenue states at a glance  
 
