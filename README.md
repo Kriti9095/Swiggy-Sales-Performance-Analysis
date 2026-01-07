@@ -67,7 +67,7 @@ These metrics provide a quick overview of Swiggy’s operational scale, customer
 
 ## Dashboard Preview  
 
-![Swiggy Sales Performance Dashboard](swiggy_dashboard.png)
+![Swiggy Sales Performance Dashboard](dashboard_swiggy.png)
 
 ---
 
